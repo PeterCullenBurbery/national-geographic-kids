@@ -4,6 +4,13 @@ All notable changes to this project will be documented in this file.
 
 > I'm not sure versions 1.0.0–1.2.0 are accurate.
 
+## [1.5.0] - 2025-07-29
+
+### Added
+
+- Added notice to `README.md` regarding malformed or incomplete magazine issues
+- Acknowledged that some PDFs may be under ~15 MB and missing pages (e.g. April 2010 missing page 6)
+
 ## [1.4.0] - 2025-07-29
 
 ### Added
