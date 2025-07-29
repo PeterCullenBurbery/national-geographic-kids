@@ -6,7 +6,7 @@ This repository contains a collection of National Geographic Kids magazine issue
 
 ## 📁 Directory Structure
 
-The `magazine-issues/` folder contains monthly and bimonthly issues from around 2009 and 2010.
+The `magazine-issues/` folder contains monthly and bimonthly issues from approximately 2009 to April 2011.
 
 There are too many files to list individually here. Please explore the folder directly to see available issues.
 
@@ -47,4 +47,4 @@ This project is shared under a Creative Commons Zero (CC0) license, except where
 
 If you use this archive in your work, please cite the following:
 
-> Peter Cullen Burbery. (2025). National Geographic Kids – Magazine Archive (v1.3.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.16587681
+> Peter Cullen Burbery. (2025). National Geographic Kids – Magazine Archive (v1.4.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.16587681
