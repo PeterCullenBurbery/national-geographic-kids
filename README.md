@@ -40,3 +40,9 @@ Maintained with love by Peter Cullen Burbery.
 ## 📄 License
 
 This project is shared under a Creative Commons Zero (CC0) license, except where restricted by original copyrights.
+
+## 📘 Citation
+
+If you use this archive in your work, please cite the following:
+
+> Peter Cullen Burbery. (2025). National Geographic Kids – Magazine Archive (v1.1.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.16587681
