@@ -1,5 +1,7 @@
 # National Geographic Kids – Magazine Archive
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16587681.svg)](https://doi.org/10.5281/zenodo.16587681)
+
 This repository contains a collection of National Geographic Kids magazine issues in PDF format.
 
 ## 📁 Directory Structure
