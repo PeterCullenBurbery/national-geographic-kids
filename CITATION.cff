@@ -1,0 +1,12 @@
+cff-version: 1.0.0
+message: "If you use this archive, please cite it using the metadata below."
+title: "National Geographic Kids – Magazine Archive"
+version: "1.0.0"
+date-released: 2025-07-29
+authors:
+  - family-names: Burbery
+    given-names: Peter Cullen
+    orcid: https://orcid.org/0000-0002-8384-5644
+    affiliation: "Marshall University"
+license: CC0-1.0
+repository-code: https://github.com/PeterCullenBurbery/national-geographic-kids
