@@ -12,12 +12,14 @@ There are too many files to list individually here. Please explore the folder di
 
 ## 🔍 Description
 
-This archive preserves a set of monthly and bimonthly issues from the years 2009 and 2010. It includes:
+This archive preserves a set of monthly and bimonthly issues from the years 2009 to 2011. It includes:
 
 - Single-month issues (e.g. April 2009)
 - Bimonthly issues (e.g. December 2009–January 2010, June–July 2009)
 
 These are collected for educational, archival, and preservation purposes.
+
+⚠️ Some PDFs may not be fully formed or complete. If an issue is under ~15 MB, it may be malformed. For example, April 2010 is known to be missing page 6.
 
 This archive is maintained for educational, research, and preservation purposes.
 
