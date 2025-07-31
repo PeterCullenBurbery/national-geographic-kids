@@ -4,6 +4,10 @@ All notable changes to this project will be documented in this file.
 
 > I'm not sure versions 1.0.0–1.2.0 are accurate.
 
+## [1.7.0] - 2025-07-31
+
+August 2009 added.
+
 ## [1.6.1] - 2025-07-31
 
 Fix typo in version 1.6.0.
