@@ -4,6 +4,10 @@ All notable changes to this project will be documented in this file.
 
 > I'm not sure versions 1.0.0–1.2.0 are accurate.
 
+## [1.6.0] - 2025-07-31
+
+I delete magazine issues. I added February 2009 to June-July 2009 002. All of these are guaranteed to be free of defects or problems.
+
 ## [1.5.0] - 2025-07-29
 
 ### Added
