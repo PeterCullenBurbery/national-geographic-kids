@@ -6,7 +6,7 @@ This repository contains a collection of National Geographic Kids magazine issue
 
 ## 📁 Directory Structure
 
-The `magazine-issues/` folder contains monthly and bimonthly issues from approximately February 2009 to October 2009.
+The `magazine-issues/` folder contains monthly and bimonthly issues from approximately February 2009 to November 2009.
 
 There are too many files to list individually here. Please explore the folder directly to see available issues.
 
