@@ -4,6 +4,10 @@ All notable changes to this project will be documented in this file.
 
 > I'm not sure versions 1.0.0–1.2.0 are accurate.
 
+## [2.0.0] - 2025-008-001 013.047.001.337458500 America/New_York 2025-W031-005 2025-213
+
+- September 2009 added.
+
 ## [1.9.1] - 2025-008-001
 
 - CHANGELOG.md format updated to include "- " in markdown. CHANGELOG.md format updated to include "- " for bullet-points.
