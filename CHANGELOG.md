@@ -4,6 +4,10 @@ All notable changes to this project will be documented in this file.
 
 > I'm not sure versions 1.0.0–1.2.0 are accurate.
 
+## [1.9.0] - 2025-008-001
+
+October 2009 added.
+
 ## [1.8.1] - 2025-008-001
 
 CHANGELOG.md date format updated to "2025-008-001".
